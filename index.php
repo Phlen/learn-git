@@ -7,3 +7,4 @@
  */
 
 echo 'index';
+echo 'change';
