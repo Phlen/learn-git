@@ -7,4 +7,3 @@
  */
 
 echo 'list';
-echo 'change';
